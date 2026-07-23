@@ -71,4 +71,4 @@ npm run format      # prettier
 
 ## Uso de IA
 
-Se utilizó IA (Claude) como asistente durante el desarrollo para guiar decisiones de arquitectura (estructura de carpetas, integración de Pinia/PrimeVue), resolver conflictos de dependencias del scaffold inicial y hacer debugging puntual (CORS, tipado, alineación de UI).
+Se utilizó IA (Claude) como asistente durante el desarrollo para guiar decisiones de arquitectura (integración de Pinia/PrimeVue), resolver conflictos de dependencias del scaffold inicial y hacer debugging puntual (CORS, tipado).
